@@ -130,12 +130,6 @@ void *handle_client(void *arg) {
     return NULL;
 }
 
-// handle SIGINT and exit
-void stop_connection() {
-    printf("\nStopping server...\n");
-    exit(EXIT_SUCCESS);
-}
-
 int main(int argc, char *argv[]) {
     int server_fd;
     struct sockaddr_in server_addr;
@@ -188,9 +182,6 @@ int main(int argc, char *argv[]) {
         printf("Client connected: %s:%d\n", 
                 inet_ntoa(client_addr.sin_addr), 
                 ntohs(client_addr.sin_port));
-        
-        // handle SIGINT
-        signal(SIGINT, stop_connection);
 
     }
 
