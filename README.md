@@ -1,7 +1,7 @@
 Different Programming Languages
 ===============================
  - [x] C
- - [ ] C++
+ - [x] C++
  - [ ] Java
  - [ ] Python
  - [ ] Ruby
