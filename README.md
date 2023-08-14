@@ -10,7 +10,7 @@ Different Programming Languages
  - [ ] JavaScript
  - [ ] Go
  - [ ] Swift
- - [ ]R
+ - [ ] R
  - [ ] Objective-C
  - [ ] Perl
  - [ ] Scala
