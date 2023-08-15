@@ -1,20 +1,6 @@
-FROM ubuntu:22.04
+FROM oven/bun:0.7.0
 
-RUN apt-get update && apt install -y \
-    python3 \
-    python3-pip \
-    python3-dev \
-    build-essential \
-    libssl-dev \
-    libffi-dev \
-    python3-setuptools \
-    python3-venv \
-    git \
-    curl \
-    && rm -rf /var/lib/apt/lists/*
-
-RUN curl -fsSL https://bun.sh/install | bash && \
-    bun help
+RUN bun install
 
 COPY . .
 
