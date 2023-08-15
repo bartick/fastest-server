@@ -5,7 +5,7 @@ Different Programming Languages
  - [x] Java
  - [x] Python
  - [x] JavaScript (nodejs)
- - [ ] JavaScript (bun)
+ - [x] JavaScript (bun)
  - [ ] Go
  - [ ] Ruby
  - [ ] C#
