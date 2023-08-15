@@ -1,4 +1,4 @@
-FROM RUST:1.71.1-buster
+FROM rust:1.71.1-buster
 
 COPY . .
 
