@@ -2,13 +2,14 @@ Different Programming Languages
 ===============================
  - [x] C
  - [x] C++
- - [ ] Java
- - [ ] Python
+ - [x] Java
+ - [x] Python
+ - [x] JavaScript (nodejs)
+ - [ ] JavaScript (bun)
+ - [ ] Go
  - [ ] Ruby
  - [ ] C#
  - [ ] PHP
- - [ ] JavaScript
- - [ ] Go
  - [ ] Swift
  - [ ] R
  - [ ] Objective-C
