@@ -6,4 +6,6 @@ COPY . .
 
 EXPOSE 8080
 
+RUN go build -o Server .
+
 CMD ["go", "run", "."]
