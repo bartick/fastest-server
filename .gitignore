@@ -5,3 +5,4 @@ C/a.out
 CPP/a.out
 JAVA/*.class
 GO/Server
+RUST/target
