@@ -7,7 +7,7 @@ Different Programming Languages
  - [x] JavaScript (nodejs)
  - [x] JavaScript (bun)
  - [x] Go
- - [ ] Ruby
+ - [x] Ruby
  - [ ] C#
  - [ ] PHP
  - [ ] Swift
