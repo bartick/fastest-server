@@ -6,3 +6,4 @@ CPP/a.out
 JAVA/*.class
 GO/Server
 RUST/target
+**/node_modules

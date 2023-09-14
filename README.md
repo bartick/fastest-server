@@ -7,6 +7,7 @@ Different Programming Languages
  - [x] JavaScript (nodejs)
  - [x] JavaScript (bun)
  - [x] Go
+ - [x] Rust
  - [x] Ruby
  - [ ] C#
  - [ ] PHP
@@ -20,7 +21,6 @@ Different Programming Languages
  - [ ] Matlab
  - [ ] Clojure
  - [ ] Groovy
- - [ ] Rust
  - [ ] Bash
  - [ ] Erlang
  - [ ] Common Lisp
